@@ -29,6 +29,18 @@
 ## GUIA DE CONSULTAS
 - para la guia de consultas y a su posteior simulacion, se tiene que guiar del archivo estructura-de-consultas.json, ubicada dentro del proyecto
 
+## PARA INICIALIZACION DEL PROYECTO
+- Se debe de registar a un usuario administrador, asi como un con el rol de vendedor 
+
+## DISEÑO
+- Para el desarrollo de la solucion, se decidio divir por capas la aplicion (controlador, servicio y repositorio) con la finalidad de obtener un codigo estructura y limpio.
+- Se uso la reutilizcion del codigo y responsabilidad unica mediante clases.
+- Se organizo los endpoint de manera de tenerlos mas estrcuturados.
+- Se uso los Request para la validacion de los datos a manipular.
+
+## DISEÑO BD
+![image](https://github.com/user-attachments/assets/aa481e4f-7eb5-479b-aa1e-facefee7bff0)
+
 ## OBSERVACIONES
 - se instalo laravel excel pero no funcinaba correctamente, por el tiempo no se cosidero en este proyecto
-
+- no se pudo grabar el video por el tiempo limitado
