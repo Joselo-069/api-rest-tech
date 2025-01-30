@@ -29,6 +29,6 @@
 ## GUIA DE CONSULTAS
 - para la guia de consultas y a su posteior simulacion, se tiene que guiar del archivo estructura-de-consultas.json, ubicada dentro del proyecto
 
-## OBSERVACIONE
-- se instalo laravel excel pero no trajao correctamente, por el tiempo no se cosidero en este proyecto
+## OBSERVACIONES
+- se instalo laravel excel pero no funcinaba correctamente, por el tiempo no se cosidero en este proyecto
 
